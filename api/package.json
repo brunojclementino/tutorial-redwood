@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@redwoodjs/api": "3.3.0",
-    "@redwoodjs/graphql-server": "3.3.0"
+    "@redwoodjs/graphql-server": "3.3.0",
+    "better-fs": "^11.0.4"
   }
 }
